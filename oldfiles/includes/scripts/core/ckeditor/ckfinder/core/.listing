@@ -1,0 +1,5 @@
+drwx---r-x    3 Iusr_85027 inetuser         4096 Jul 31  2016 .
+drwx---r-x    9 Iusr_85027 inetuser         4096 Jul 31  2016 ..
+-rw----r--    1 Iusr_85027 inetuser         8340 Jul 31  2016 ckfinder_php4.php
+-rw----r--    1 Iusr_85027 inetuser         8124 Jul 31  2016 ckfinder_php5.php
+drwx---r-x    3 Iusr_85027 inetuser         4096 Jul 31  2016 connector

@@ -1,0 +1,16 @@
+drwx---r-x   11 Iusr_85027 inetuser         4096 Jul 31  2016 .
+drwx---r-x   18 Iusr_85027 inetuser         4096 Jul 31  2016 ..
+-rw----r--    1 Iusr_85027 inetuser       144556 Jul 31  2016 AHGBold.ttf
+drwx---r-x    2 Iusr_85027 inetuser         4096 Jul 31  2016 admin
+drwx---r-x    2 Iusr_85027 inetuser         8192 Jul 31  2016 audio
+drwx---r-x    2 Iusr_85027 inetuser         4096 Jul 31  2016 backgrounds
+drwx---r-x    2 Iusr_85027 inetuser         4096 Jul 31  2016 database
+drwx---r-x    2 Iusr_85027 inetuser         4096 Jul 31  2016 functions
+drwx---r-x    2 Iusr_85027 inetuser         4096 Jul 31  2016 gdfonts
+drwx---r-x    2 Iusr_85027 inetuser         4096 Jul 31  2016 images
+-rw----r--    1 Iusr_85027 inetuser        39573 Jul 31  2016 securimage.php
+-rw----r--    1 Iusr_85027 inetuser         1852 Jul 31  2016 securimage_play.php
+-rw----r--    1 Iusr_85027 inetuser         3102 Jul 31  2016 securimage_play.swf
+-rw----r--    1 Iusr_85027 inetuser          749 Jul 31  2016 securimage_show.php
+drwx---r-x    2 Iusr_85027 inetuser         4096 Jul 31  2016 templates
+drwx---r-x    2 Iusr_85027 inetuser         4096 Jul 31  2016 words

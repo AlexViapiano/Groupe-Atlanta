@@ -1,0 +1,9 @@
+drwx---r-x    3 Iusr_85027 inetuser         4096 Jul 31  2016 .
+drwx---r-x    8 Iusr_85027 inetuser         4096 Jul 31  2016 ..
+drwx---r-x   11 Iusr_85027 inetuser         4096 Jul 31  2016 ckeditor
+-rw----r--    1 Iusr_85027 inetuser         1348 Jul 31  2016 html5.js
+-rw----r--    1 Iusr_85027 inetuser          169 Jul 31  2016 imagepreloader.js
+-rw----r--    1 Iusr_85027 inetuser       121606 Jul 31  2016 jquery.js
+-rw----r--    1 Iusr_85027 inetuser         5464 Jul 31  2016 md5.js
+-rw----r--    1 Iusr_85027 inetuser          700 Jul 31  2016 password_check.js
+-rw----r--    1 Iusr_85027 inetuser        15955 Jul 31  2016 popup-msg.js

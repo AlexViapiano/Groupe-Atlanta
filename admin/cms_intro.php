@@ -1,0 +1,1 @@
+Welcome to the <strong>CMS Control Center</strong>, here you will be able to manage the content of your website. For more information please refer to the FAQ below, you may also navigate the menus on the left.

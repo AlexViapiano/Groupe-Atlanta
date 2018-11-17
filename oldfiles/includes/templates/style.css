@@ -1,0 +1,26 @@
+.page_title{
+	background-color:#f4f4f4;
+	height:20px;
+	widows:500px;
+	padding:5px;
+	font-weight:bold;
+	font-size:18px;
+}
+
+.seperator{
+	background-color:#fff;
+	height:20px;
+}	
+
+.footer{
+	color: #666;
+	text-decoration:none;
+	font-size:12px
+}
+
+.links{
+	color: #666;
+	text-decoration:none;
+	font-size:14px;
+	line-height:18px;
+}

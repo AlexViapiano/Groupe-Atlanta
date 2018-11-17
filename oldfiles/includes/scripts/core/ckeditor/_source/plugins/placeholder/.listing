@@ -1,0 +1,6 @@
+drwx---r-x    4 Iusr_85027 inetuser         4096 Jul 31  2016 .
+drwx---r-x   86 Iusr_85027 inetuser         8192 Jul 31  2016 ..
+drwx---r-x    2 Iusr_85027 inetuser         4096 Jul 31  2016 dialogs
+drwx---r-x    2 Iusr_85027 inetuser         4096 Jul 31  2016 lang
+-rw----r--    1 Iusr_85027 inetuser           96 Jul 31  2016 placeholder.gif
+-rw----r--    1 Iusr_85027 inetuser         4002 Jul 31  2016 plugin.js

@@ -1,0 +1,5 @@
+drwx---r-x    2 Iusr_85027 inetuser         4096 Jul 31  2016 .
+drwx---r-x    8 Iusr_85027 inetuser         4096 Jul 31  2016 ..
+-rw----r--    1 Iusr_85027 inetuser         1834 Jul 31  2016 errors_de.js
+-rw----r--    1 Iusr_85027 inetuser         1842 Jul 31  2016 errors_fr.js
+-rw----r--    1 Iusr_85027 inetuser         1773 Jul 31  2016 errors_sp.js
