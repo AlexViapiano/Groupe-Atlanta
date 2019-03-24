@@ -1,8 +1,0 @@
-drwx---r-x    2 Iusr_85027 inetuser         4096 Jul 31  2016 .
-drwx---r-x    6 Iusr_85027 inetuser         4096 Jul 31  2016 ..
--rw----r--    1 Iusr_85027 inetuser         2390 Jul 31  2016 captcha.tpl
--rw----r--    1 Iusr_85027 inetuser         1535 Jul 31  2016 edit_template.tpl
--rw----r--    1 Iusr_85027 inetuser         2399 Jul 31  2016 links.tpl
--rw----r--    1 Iusr_85027 inetuser         1225 Jul 31  2016 log.tpl
--rw----r--    1 Iusr_85027 inetuser         3106 Jul 31  2016 users.tpl
--rw----r--    1 Iusr_85027 inetuser         2558 Jul 31  2016 website.tpl

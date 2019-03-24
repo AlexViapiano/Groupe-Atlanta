@@ -1,1 +1,0 @@
-<body onLoad="window.parent.location='login.php'"></body>

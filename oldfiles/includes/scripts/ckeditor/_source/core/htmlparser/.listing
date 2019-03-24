@@ -1,9 +1,0 @@
-drwx---r-x    2 Iusr_85027 inetuser         4096 Jul 31  2016 .
-drwx---r-x    4 Iusr_85027 inetuser         4096 Jul 31  2016 ..
--rw----r--    1 Iusr_85027 inetuser         3423 Jul 31  2016 basicwriter.js
--rw----r--    1 Iusr_85027 inetuser          870 Jul 31  2016 cdata.js
--rw----r--    1 Iusr_85027 inetuser         1141 Jul 31  2016 comment.js
--rw----r--    1 Iusr_85027 inetuser         7699 Jul 31  2016 element.js
--rw----r--    1 Iusr_85027 inetuser         6256 Jul 31  2016 filter.js
--rw----r--    1 Iusr_85027 inetuser        15323 Jul 31  2016 fragment.js
--rw----r--    1 Iusr_85027 inetuser         1057 Jul 31  2016 text.js

@@ -1,6 +1,0 @@
-drwx---r-x    2 Iusr_85027 inetuser         4096 Jul 31  2016 .
-drwx---r-x    6 Iusr_85027 inetuser         4096 Jul 31  2016 ..
--rw----r--    1 Iusr_85027 inetuser         2111 Jul 31  2016 Base.php
--rw----r--    1 Iusr_85027 inetuser         2563 Jul 31  2016 FileUpload.php
--rw----r--    1 Iusr_85027 inetuser         2099 Jul 31  2016 Http.php
--rw----r--    1 Iusr_85027 inetuser         2829 Jul 31  2016 QuickUpload.php

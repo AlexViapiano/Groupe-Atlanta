@@ -1,1 +1,0 @@
-<a href="javascript:void(0)" id="{$id}_link"><img src="includes/templates/images/admin/help.gif" width="20" title="Click for help!" align="left" style="padding-right:2px" /></a>
